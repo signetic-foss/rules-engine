@@ -9,6 +9,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment include:
+
 - Demonstrating empathy and kindness toward other people.
 - Being respectful of differing opinions, viewpoints, and experiences.
 - Giving and gracefully accepting constructive feedback.
@@ -16,6 +17,7 @@ Examples of behavior that contributes to creating a positive environment include
 - Showing patience and humility when mistakes are made, and offering constructive ways to improve.
 
 Examples of unacceptable behavior include:
+
 - The use of sexualized language or imagery, and unwelcome sexual attention or advances.
 - Trolling, insulting or derogatory comments, and personal or political attacks.
 - Public or private harassment.
@@ -43,22 +45,21 @@ All project maintainers are obligated to respect the privacy and security of the
 Project maintainers will follow these guidelines in determining the consequences for any action that violates this Code of Conduct:
 
 1. **Correction**  
-   *Impact: Minor and single-time issues.*  
+   _Impact: Minor and single-time issues._  
    The project team will provide a private, informal notice to the contributor explaining the violation and requesting changes in future behavior. The team may also request a public or private apology.
 
 2. **Warning**  
-   *Impact: Repeated or significant issues.*  
+   _Impact: Repeated or significant issues._  
    The contributor will receive an official warning, along with temporary restrictions on their contributions or participation.
 
 3. **Temporary Ban**  
-   *Impact: Serious violations.*  
+   _Impact: Serious violations._  
    A temporary ban from the project’s spaces (e.g., issue trackers, pull requests, community channels) may be applied for behavior that does not improve after a warning.
 
 4. **Permanent Ban**  
-   *Impact: Egregious violations or repeated offenses.*  
+   _Impact: Egregious violations or repeated offenses._  
    A permanent ban from any interaction within the project’s spaces may be issued.
 
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code_of_conduct/](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
-
